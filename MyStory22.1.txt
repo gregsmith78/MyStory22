@@ -1,1 +1,10 @@
-My name is Greg.  This is my story.
+My name is Greg.  This is my story.  This is our first day of class
+at devCodeCamp.  Our generation is called Flurine...not sure I spelled
+that correctly, but that's how it will be spelt for now.
+
+The purpose of this exercise is to get us familiar with gitHub.  Right now
+we are working on making changes to a file and getting them posted on the
+website.  Also, to get familiar with the commands such as git commit, git
+pull origin master, git status, and git push origin master.  There are more
+commands to know, but those are core commands we need to know.
+
